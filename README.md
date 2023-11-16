@@ -1,8 +1,8 @@
 # YOLOv8_python
 
-(1) 100원, 500원 동전 정면 촬영한 이미지 데이터셋 생성, 
-(2) roboflow 웹페이지에서 detection 라벨링, 
-(3) google cloud platform인스턴스에서 YOLOv8으로 object detection 학습
+1. 100원, 500원 동전 정면 촬영한 이미지 데이터셋 생성, \n
+2. roboflow 웹페이지에서 detection 라벨링, \n
+3. google cloud platform인스턴스에서 YOLOv8으로 object detection 학습
 
 - google cloud platform
   - gpu : Tesla V100
