@@ -5,9 +5,11 @@
 3. google cloud platform인스턴스에서 YOLOv8으로 object detection 학습
 
 - google cloud platform
-  - gpu : Tesla V100
-  - cpu : 4
+  - gpu : Tesla V100 1개
+  - cpu : 4개
   - ram : 15GB
   - python 3.10.13
+    - torch 1.13.1+cu117
+    - torchvision 0.14.1+cu117
     - ultralytics 8.0.20
     - IPython 8.17.2
