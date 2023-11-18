@@ -1,4 +1,4 @@
-# YOLOv8_python
+# YOLOv8_coin_detection
 
 1. 100원, 500원 동전 정면 촬영한 이미지 데이터셋 생성
 2. roboflow 웹페이지에서 detection 라벨링
